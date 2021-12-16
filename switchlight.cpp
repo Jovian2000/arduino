@@ -1,6 +1,4 @@
-# arduino
-## F1.7.03.O5 - Een lichtschakelaar
-``` C++ code
+// C++ code
 
 // load LCD library
 #include <LiquidCrystal.h>
@@ -61,4 +59,3 @@ void loop()
 // schrijf hier tussen je eventuele function(s)
 
 // schrijf hier tussen je eventuele function(s)
-```
